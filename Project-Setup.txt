@@ -12,6 +12,3 @@
   2. Run Command --> 'python server.py'
   
 - That's it! You've succesfully executed the Project.
-
-- If you've any doubts. Please, feel free to contact us and we will be ready to help.
-
